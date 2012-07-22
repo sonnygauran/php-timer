@@ -1,0 +1,6 @@
+{
+	"name": "phpunit/php-timer",
+	"type": "library",
+	"description": "Utility class for timing",
+	"keywords": ["utility","time","timer","timing","unit","testing","php"]
+}
